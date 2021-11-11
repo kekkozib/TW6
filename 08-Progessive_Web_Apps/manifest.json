@@ -1,8 +1,8 @@
 {
-  "name": "Hello World 2021",
-  "short_name": "Hello21",
+  "name": "Calcolatrice 2021",
+  "short_name": "Calc21",
   "lang": "en-US",
-  "start_url": "index.html",
+  "start_url": "calc.html",
   "display": "standalone",
   "background_color": "white",
   "theme_color": "white"

@@ -1,4 +1,3 @@
-
 let currentOperator="NOP"
 let currentOperand=NaN
 
